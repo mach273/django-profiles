@@ -1,0 +1,4 @@
+django-profiles
+===============
+
+Django profiles
